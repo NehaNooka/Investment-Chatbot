@@ -1,19 +1,5 @@
 # Application of Chatbot to Investment Advising with DialogFlow
-## Author: Jhancy Amarsingh, Jin Hui Xu, Shikha C. Patel
-### DATA 690 - NLP Project
-
-## Presentation
-  - Presentation Slides
-    - <a href="https://github.com/JinHuiXu1991/DATA690NLP_Project_InvestmentChatbot/blob/b6e91197ac825288689e431bd0df793938431bf3/presentation/NLP%20investment%20chatbot%20presetation.pptx">PPT</a>
-    - <a href="https://github.com/JinHuiXu1991/DATA690NLP_Project_InvestmentChatbot/blob/b6e91197ac825288689e431bd0df793938431bf3/presentation/NLP%20investment%20chatbot%20presetation.pdf">PDF</a>
-  - Video presentation 
-    - <a href="https://www.youtube.com/watch?v=vCKJ0jrXTGo">Youtube Presentation Link</a>
-
-
-## Paper
-  - <a href="https://github.com/JinHuiXu1991/DATA690NLP_Project_InvestmentChatbot/blob/a44047e77e8a1410bf41c19e7fe744d874e6fdf7/paper/Investment_chatbot_paper.docx">Word</a>
-  - <a href="https://github.com/JinHuiXu1991/DATA690NLP_Project_InvestmentChatbot/blob/a44047e77e8a1410bf41c19e7fe744d874e6fdf7/paper/Investment_chatbot_paper.pdf">PDF</a>
-    
+   
 ## Table of Contents
 - Introduction
 - Why are Chatbots a More Significant Presence in Today’s Financial Environment?
